@@ -4,7 +4,7 @@ const app = express();
 
 app.get('/', function(res, res) {
     return res.send({
-        msg: 'This is version 1 pipeline'
+        msg: 'This is version 2 pipeline'
     })
 })
 
